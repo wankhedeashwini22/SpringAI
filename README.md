@@ -5,7 +5,7 @@ https://docs.spring.io/spring-ai/reference/api/chat/openai-chat.html
 
 Spring AI project using OpenAI chat model
 
-Got to https://start.spring.io/ to generate a SpringBoot project for OpenAI integration
+Go to https://start.spring.io/ to generate a SpringBoot project for OpenAI integration
 
 Include  Spring Web and OpenAI AI dependencies while creating spring Boot Application
 

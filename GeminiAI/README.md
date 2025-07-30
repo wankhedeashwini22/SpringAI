@@ -21,7 +21,7 @@ mvn clean install
 
 mvn spring-boot:run
 
-Once the application is up and running, hit the below url using Postman Get Api call or directly in Browser to see the final output
+Once the application is up and running, hit the below url using Postman Post Api call to see the response
 
 http://localhost:8080/api/email/generate
 

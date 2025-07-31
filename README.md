@@ -76,5 +76,5 @@ Once the application is up and running, hit the below url using Postman Post Api
   "body" : "Hello Thank you for reaching out" 
 }
 
-
+![alt text](imageGemini.png)
 
